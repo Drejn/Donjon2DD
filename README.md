@@ -1,6 +1,10 @@
 # Donjon2DD
  A parser to create Dungeondraft Maps out of Donjoin created maps.
 
+## Disclaimer
+
+The software is in no way affiliated with Donjon (https://donjon.bin.sh) or Dungeondraft (https://dungeondraft.net/). 
+
 ## Step 1: Generate a Donjon Map
 
 Through the use of donjon random dungeon generator (https://donjon.bin.sh/adnd/dungeon/) we can create a randomly generated map. Currently the map that were generated used the following settings (asterisks denote crucial settings that should not be changed as the software won't work with a different option)
